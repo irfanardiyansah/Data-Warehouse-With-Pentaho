@@ -4,4 +4,3 @@ Class BI Development
   - Tableau
   - SQL
   - Power BI
-  - Reguler Expression (Regex)
