@@ -1,5 +1,7 @@
 Class BI Development
   - Datawarehouse
-  - Business Analyst
   - Pentaho
   - Tableau
+  - SQL
+  - Power BI
+  - Reguler Expression (Regex)
