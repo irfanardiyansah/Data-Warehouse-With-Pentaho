@@ -1,0 +1,5 @@
+Class BI Development
+  - Datawarehouse
+  - Business Analyst
+  - Pentaho
+  
