@@ -3,3 +3,6 @@ Repository untuk menyimpan resolusi 2021
 
 # Tableau
 ![download](https://user-images.githubusercontent.com/8768315/104553937-109c4480-566e-11eb-8dcc-5dc54688d23f.png)
+
+# Pentaho
+![download (1)](https://user-images.githubusercontent.com/8768315/104554413-bb146780-566e-11eb-8271-401217e7042c.png)
