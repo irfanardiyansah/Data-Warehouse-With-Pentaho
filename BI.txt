@@ -1,0 +1,6 @@
+Class BI Development
+  - Datawarehouse
+  - Pentaho
+  - Tableau
+  - SQL
+  - Power BI
