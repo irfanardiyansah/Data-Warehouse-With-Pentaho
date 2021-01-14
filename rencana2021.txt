@@ -5,4 +5,4 @@ Irfan Ardiyansah Resolusi 2021
     * Tableau
     * ETL Pentaho
   - dafftar gym
-    - setelah lebaran
+    * setelah lebaran
