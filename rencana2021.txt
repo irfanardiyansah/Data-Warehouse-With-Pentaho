@@ -2,5 +2,7 @@ Irfan Ardiyansah Resolusi 2021
   - Fokus menjadi Business Intelligence
   - Mengikuti Kelas BI Development
   - Buat Portofolio di github
-    * Python
-    * SQL
+    * Tableau
+    * ETL Pentaho
+  - dafftar gym
+    * setelah lebaran
