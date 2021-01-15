@@ -33,8 +33,9 @@ Output:
 ![output dim waktu update](https://user-images.githubusercontent.com/8768315/104673102-a342ef00-5713-11eb-9efe-3ba5818ae910.png)
 
 # fact_penjualan
-![dim_waktu](https://user-images.githubusercontent.com/8768315/104673086-9d4d0e00-5713-11eb-8e84-1251e5c8bcb9.png)
+![fact_penjualan](https://user-images.githubusercontent.com/8768315/104673982-637d0700-5715-11eb-8100-e692df5c5110.png)
 
 Output:
 
-![output dim waktu update](https://user-images.githubusercontent.com/8768315/104673102-a342ef00-5713-11eb-9efe-3ba5818ae910.png)
+![output fact penjualan](https://user-images.githubusercontent.com/8768315/104673990-67a92480-5715-11eb-881d-052fad8fc128.png)
+
