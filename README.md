@@ -1,6 +1,9 @@
 # Datawarehouse With Pentaho Data Integragion
 Repository untuk menyimpan resolusi 2021
 
+![tabel dim fact](https://user-images.githubusercontent.com/8768315/104673762-f7020800-5714-11eb-80bf-0a82c5d21b20.png)
+
+
 # dim_karyawan
 ![dim_karyawan](https://user-images.githubusercontent.com/8768315/104672879-2ca5f180-5713-11eb-8077-8f5fab016643.png)
 
