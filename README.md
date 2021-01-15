@@ -4,6 +4,7 @@ Repository untuk menyimpan resolusi 2021
 # dim_karyawan
 ![dim_karyawan](https://user-images.githubusercontent.com/8768315/104672879-2ca5f180-5713-11eb-8077-8f5fab016643.png)
 Output:
+
 ![output dim karyawan](https://user-images.githubusercontent.com/8768315/104672892-316aa580-5713-11eb-99f2-9d021b2b346f.png)
 
 # dim_produk
