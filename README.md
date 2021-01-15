@@ -17,15 +17,21 @@ Output:
 
 # dim_cabang
 ![dim_cabang](https://user-images.githubusercontent.com/8768315/104672720-ea7cb000-5712-11eb-89dc-829f4e219cac.png)
+
 Output:
+
 ![output dim cabang](https://user-images.githubusercontent.com/8768315/104672792-084a1500-5713-11eb-9376-c1754aa58507.png)
 
 # dim_waktu
 ![dim_waktu](https://user-images.githubusercontent.com/8768315/104673086-9d4d0e00-5713-11eb-8e84-1251e5c8bcb9.png)
+
 Output:
+
 ![output dim waktu update](https://user-images.githubusercontent.com/8768315/104673102-a342ef00-5713-11eb-9efe-3ba5818ae910.png)
 
 # fact_penjualan
 ![dim_waktu](https://user-images.githubusercontent.com/8768315/104673086-9d4d0e00-5713-11eb-8e84-1251e5c8bcb9.png)
+
 Output:
+
 ![output dim waktu update](https://user-images.githubusercontent.com/8768315/104673102-a342ef00-5713-11eb-9efe-3ba5818ae910.png)
