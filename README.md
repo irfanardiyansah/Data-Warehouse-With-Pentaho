@@ -39,3 +39,8 @@ Output:
 
 ![Dim Fact Penjualan](https://user-images.githubusercontent.com/8768315/104700134-4a407e80-5746-11eb-8bd9-d54aeb00a50e.png)
 
+# dwh_job
+
+![dwh job](https://user-images.githubusercontent.com/8768315/104865170-db456e80-596d-11eb-98bf-3d43c45fd384.png)
+
+
